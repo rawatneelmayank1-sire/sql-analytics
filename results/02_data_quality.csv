@@ -1,0 +1,11 @@
+check_id,check_name,value,passed
+1,orders loaded,21350,true
+2,order lines loaded,48620,true
+3,menu items (pizza and size) loaded,96,true
+4,pizza types loaded,32,true
+5,order lines with no matching order,0,true
+6,order lines with no matching menu item,0,true
+7,orders with no order lines,0,true
+8,menu items sharing a pizza type and size,0,true
+9,bigger sizes priced below the next smaller size,0,true
+10,order lines with quantity above 4 (outliers to review),0,true

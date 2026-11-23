@@ -1,0 +1,2 @@
+total_orders,total_pizzas,total_revenue,avg_order_value,avg_pizzas_per_order,days_open,avg_orders_per_day,avg_revenue_per_day,first_day,last_day
+21350,49574,817860.05,38.31,2.32,358,59.6,2284.53,2015-01-01,2015-12-31

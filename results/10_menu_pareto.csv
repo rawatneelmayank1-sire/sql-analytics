@@ -1,0 +1,33 @@
+revenue_rank,pizza_name,category,pizzas_sold,revenue,revenue_share_pct,cumulative_share_pct,in_top_80pct
+1,The Thai Chicken Pizza,Chicken,2371,43434.25,5.31,5.31,true
+2,The Barbecue Chicken Pizza,Chicken,2432,42768.00,5.23,10.54,true
+3,The California Chicken Pizza,Chicken,2370,41409.50,5.06,15.6,true
+4,The Classic Deluxe Pizza,Classic,2453,38180.50,4.67,20.27,true
+5,The Spicy Italian Pizza,Supreme,1924,34831.25,4.26,24.53,true
+6,The Southwest Chicken Pizza,Chicken,1917,34705.75,4.24,28.77,true
+7,The Italian Supreme Pizza,Supreme,1884,33476.75,4.09,32.87,true
+8,The Hawaiian Pizza,Classic,2422,32273.25,3.95,36.81,true
+9,The Four Cheese Pizza,Veggie,1902,32265.70,3.95,40.76,true
+10,The Sicilian Pizza,Supreme,1938,30940.50,3.78,44.54,true
+11,The Pepperoni Pizza,Classic,2418,30161.75,3.69,48.23,true
+12,The Greek Pizza,Classic,1420,28454.10,3.48,51.71,true
+13,The Mexicana Pizza,Veggie,1484,26780.75,3.27,54.98,true
+14,The Five Cheese Pizza,Veggie,1409,26066.50,3.19,58.17,true
+15,The Pepper Salami Pizza,Supreme,1446,25529.00,3.12,61.29,true
+16,The Italian Capocollo Pizza,Classic,1438,25094.00,3.07,64.36,true
+17,The Vegetables + Vegetables Pizza,Veggie,1526,24374.75,2.98,67.34,true
+18,The Prosciutto and Arugula Pizza,Supreme,1457,24193.25,2.96,70.3,true
+19,The Napolitana Pizza,Classic,1464,24087.00,2.95,73.24,true
+20,The Spinach and Feta Pizza,Veggie,1446,23271.25,2.85,76.09,true
+21,The Big Meat Pizza,Classic,1914,22968.00,2.81,78.9,true
+22,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,1359,18834.50,2.3,81.2,true
+23,The Chicken Alfredo Pizza,Chicken,987,16900.25,2.07,83.27,false
+24,The Chicken Pesto Pizza,Chicken,973,16701.75,2.04,85.31,false
+25,The Soppressata Pizza,Supreme,961,16425.75,2.01,87.32,false
+26,The Italian Vegetables Pizza,Veggie,981,16019.25,1.96,89.28,false
+27,The Calabrese Pizza,Supreme,937,15934.25,1.95,91.22,false
+28,The Spinach Pesto Pizza,Veggie,970,15596.00,1.91,93.13,false
+29,The Mediterranean Pizza,Veggie,934,15360.50,1.88,95.01,false
+30,The Spinach Supreme Pizza,Supreme,950,15277.75,1.87,96.88,false
+31,The Green Garden Pizza,Veggie,997,13955.75,1.71,98.58,false
+32,The Brie Carre Pizza,Supreme,490,11588.50,1.42,100.0,false

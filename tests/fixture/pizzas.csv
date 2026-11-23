@@ -1,0 +1,12 @@
+pizza_id,pizza_type_id,size,price
+marg_s,marg,S,10.00
+marg_m,marg,M,13.50
+marg_l,marg,L,17.00
+pep_s,pep,S,11.00
+pep_m,pep,M,14.50
+pep_l,pep,L,18.25
+pep_xl,pep,XL,24.00
+veg_s,veg,S,10.50
+veg_m,veg,M,14.00
+bbq_m,bbq,M,16.75
+bbq_l,bbq,L,20.75

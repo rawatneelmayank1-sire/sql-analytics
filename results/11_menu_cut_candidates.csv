@@ -1,0 +1,33 @@
+pizza_name,category,pizzas_sold,revenue,avg_price_paid,orders_containing,revenue_quartile,volume_quartile,recommendation
+The Brie Carre Pizza,Supreme,490,11588.50,23.65,480,1,1,cut candidate
+The Green Garden Pizza,Veggie,997,13955.75,14.0,976,1,2,watch
+The Spinach Supreme Pizza,Supreme,950,15277.75,16.08,918,1,1,cut candidate
+The Mediterranean Pizza,Veggie,934,15360.50,16.45,912,1,1,cut candidate
+The Spinach Pesto Pizza,Veggie,970,15596.00,16.08,945,1,1,cut candidate
+The Calabrese Pizza,Supreme,937,15934.25,17.01,918,1,1,cut candidate
+The Italian Vegetables Pizza,Veggie,981,16019.25,16.33,952,1,1,cut candidate
+The Soppressata Pizza,Supreme,961,16425.75,17.09,941,1,1,cut candidate
+The Chicken Pesto Pizza,Chicken,973,16701.75,17.17,938,2,1,watch
+The Chicken Alfredo Pizza,Chicken,987,16900.25,17.12,967,2,2,keep
+"The Pepperoni, Mushroom, and Peppers Pizza",Classic,1359,18834.50,13.86,1316,2,2,keep
+The Big Meat Pizza,Classic,1914,22968.00,12.0,1811,2,3,keep
+The Spinach and Feta Pizza,Veggie,1446,23271.25,16.09,1402,2,2,keep
+The Napolitana Pizza,Classic,1464,24087.00,16.45,1421,2,3,keep
+The Prosciutto and Arugula Pizza,Supreme,1457,24193.25,16.6,1398,2,3,keep
+The Vegetables + Vegetables Pizza,Veggie,1526,24374.75,15.97,1463,2,3,keep
+The Italian Capocollo Pizza,Classic,1438,25094.00,17.45,1380,3,2,keep
+The Pepper Salami Pizza,Supreme,1446,25529.00,17.65,1383,3,2,keep
+The Five Cheese Pizza,Veggie,1409,26066.50,18.5,1359,3,2,keep
+The Mexicana Pizza,Veggie,1484,26780.75,18.05,1426,3,3,keep
+The Greek Pizza,Classic,1420,28454.10,20.04,1361,3,2,keep
+The Pepperoni Pizza,Classic,2418,30161.75,12.47,2278,3,4,keep
+The Sicilian Pizza,Supreme,1938,30940.50,15.97,1820,3,4,keep
+The Four Cheese Pizza,Veggie,1902,32265.70,16.96,1809,3,3,keep
+The Hawaiian Pizza,Classic,2422,32273.25,13.33,2280,4,4,keep
+The Italian Supreme Pizza,Supreme,1884,33476.75,17.77,1791,4,3,keep
+The Southwest Chicken Pizza,Chicken,1917,34705.75,18.1,1825,4,3,keep
+The Spicy Italian Pizza,Supreme,1924,34831.25,18.1,1822,4,4,keep
+The Classic Deluxe Pizza,Classic,2453,38180.50,15.56,2329,4,4,keep
+The California Chicken Pizza,Chicken,2370,41409.50,17.47,2197,4,4,keep
+The Barbecue Chicken Pizza,Chicken,2432,42768.00,17.59,2273,4,4,keep
+The Thai Chicken Pizza,Chicken,2371,43434.25,18.32,2225,4,4,keep

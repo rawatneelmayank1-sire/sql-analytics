@@ -1,0 +1,5 @@
+pizza_type_id,name,category,ingredients
+marg,The Fixture Margherita Pizza,Classic,"Tomatoes, Mozzarella Cheese, Basil"
+pep,The Fixture Pepperoni Pizza,Classic,"Mozzarella Cheese, Pepperoni"
+veg,The Fixture Garden Pizza,Veggie,"Tomatoes, Spinach, Red Onions, Garlic"
+bbq,The Fixture BBQ Chicken Pizza,Chicken,"Barbecued Chicken, Red Onions, Barbecue Sauce"

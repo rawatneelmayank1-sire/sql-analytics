@@ -1,0 +1,11 @@
+driver,segment,orders,order_share_pct,revenue,revenue_share_pct,avg_order_value,avg_pizzas
+pizzas in order,1,8111,37.99,133967.95,16.38,16.52,1.0
+pizzas in order,2,6152,28.81,202970.45,24.82,32.99,2.0
+pizzas in order,3,3207,15.02,158350.75,19.36,49.38,3.0
+pizzas in order,4,3122,14.62,206051.95,25.19,66.0,4.0
+pizzas in order,5 or more,758,3.55,116518.95,14.25,153.72,9.3
+time of day,1 before 11:00,9,0.04,386.65,0.05,42.96,2.44
+time of day,2 lunch 11:00 to 13:59,6206,29.07,262879.40,32.14,42.36,2.56
+time of day,3 afternoon 14:00 to 16:59,4860,22.76,182249.10,22.28,37.5,2.28
+time of day,4 dinner 17:00 to 19:59,6744,31.59,248163.20,30.34,36.8,2.23
+time of day,5 late 20:00 and after,3531,16.54,124181.70,15.18,35.17,2.13

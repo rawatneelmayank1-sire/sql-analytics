@@ -1,0 +1,66 @@
+ingredient,pizza_types_using,pizzas_sold_containing,single_pizza_ingredient
+Garlic,20,27913,false
+Tomatoes,18,27052,false
+Red Onions,13,19834,false
+Red Peppers,10,16562,false
+Mozzarella Cheese,6,10569,false
+Pepperoni,6,10540,false
+Spinach,8,10166,false
+Mushrooms,7,9729,false
+Chicken,5,8618,false
+Capocollo,4,6692,false
+Green Olives,4,6283,false
+Jalapeno Peppers,3,5771,false
+Artichokes,5,5759,false
+Green Peppers,3,5317,false
+Feta Cheese,4,4797,false
+Pineapple,2,4793,false
+Bacon,2,4367,false
+Chipotle Sauce,2,3401,false
+Cilantro,2,3401,false
+Corn,2,3401,false
+Asiago Cheese,3,3383,false
+Goat Cheese,2,3362,false
+Fontina Cheese,2,3331,false
+Kalamata Olives,3,3304,false
+Pesto Sauce,3,2924,false
+Zucchini,2,2507,false
+Barbecue Sauce,1,2432,true
+Barbecued Chicken,1,2432,true
+Sliced Ham,1,2422,true
+Thai Sweet Chilli Sauce,1,2371,true
+Artichoke,1,2370,true
+Gouda Cheese,1,2370,true
+Coarse Sicilian Salami,1,1938,true
+Luganega Sausage,1,1938,true
+Onions,1,1938,true
+Peperoncini verdi,1,1924,true
+Chorizo Sausage,1,1914,true
+Italian Sausage,1,1914,true
+Sun-dried Tomatoes,2,1904,false
+Gorgonzola Piccante Cheese,1,1902,true
+Parmigiano Reggiano Cheese,1,1902,true
+Ricotta Cheese,1,1902,true
+Calabrese Salami,1,1884,true
+Anchovies,1,1464,true
+Arugula,1,1457,true
+Prosciutto di San Daniele,1,1457,true
+Genoa Salami,1,1446,true
+Oregano,1,1438,true
+Beef Chuck Roast,1,1420,true
+Blue Cheese,1,1409,true
+Provolone Cheese,1,1409,true
+Romano Cheese,1,1409,true
+Smoked Gouda Cheese,1,1409,true
+Alfredo Sauce,1,987,true
+Eggplant,1,981,true
+Soppressata Salami,1,961,true
+Friggitello Peppers,1,937,true
+Pancetta,1,937,true
+‘Nduja Salami,1,937,true
+Plum Tomatoes,1,934,true
+Brie Carre Cheese,1,490,true
+Caramelized Onions,1,490,true
+Pears,1,490,true
+Prosciutto,1,490,true
+Thyme,1,490,true
